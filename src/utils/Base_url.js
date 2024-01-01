@@ -1,0 +1,1 @@
+export const Base_url = 'http://13.40.11.117/api/v1'
